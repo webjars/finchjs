@@ -13,8 +13,8 @@
     <groupId>org.webjars</groupId>
     <artifactId>finchjs</artifactId>
     <version>0.5.14-SNAPSHOT</version>
-    <name>WEBJAR_NAME</name>
-    <description>WebJar for WEBJAR_NAME</description>
+    <name>Finch.js</name>
+    <description>WebJar for Finch.js</description>
     <url>http://webjars.org</url>
 
     <properties>
